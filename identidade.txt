@@ -1,2 +1,4 @@
 Nome: Taymor
 CPF: 000.000.000-00
+Idade: 27
+Altura:1.80
